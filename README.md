@@ -8,4 +8,4 @@
 ## [Docker_file](https://github.com/kaifeng273/note2/blob/main/week9.md)
 ## [jumpsever](https://github.com/kaifeng273/note2/blob/main/week10.md)
 ## [ansible](https://github.com/kaifeng273/note2/blob/main/ansible.md)
-## [ansible playbooks](https://github.com/kaifeng273/note2/blob/main/ansible2.md)
+
