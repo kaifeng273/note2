@@ -1,4 +1,4 @@
-# jumpsever\
+# jumpsever
 ## 1. 安裝
 ```
 git clone --depth=1 https://github.com/wojiushixiaobai/Dockerfile.git
