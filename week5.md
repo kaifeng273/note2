@@ -74,3 +74,8 @@ zone "a.com" IN {
 	allow-update { none; };
 };
 ```
+### 3.檢查參數並重啟
+```
+named-checkconf
+systemctl restart named
+```
