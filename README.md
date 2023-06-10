@@ -6,5 +6,5 @@
 ## [第五周](https://github.com/kaifeng273/note2/blob/main/week5.md)
 ## [第六周](https://github.com/kaifeng273/note2/blob/main/week6.md)
 ## [Docker_file](https://github.com/kaifeng273/note2/blob/main/week9.md)
-## [第十周](https://github.com/kaifeng273/note2/blob/main/week10.md)
+## [jumpsever](https://github.com/kaifeng273/note2/blob/main/week10.md)
 ## [ansible](https://github.com/kaifeng273/note2/blob/main/ansible.md)
